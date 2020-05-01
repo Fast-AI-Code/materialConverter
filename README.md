@@ -5,4 +5,4 @@
 ## Now you don't need to wonder anymore. Here's your new AI super power ;P
 - (I used a GAN. Yes, I am really fond of those. The dataset was scraped from google images. And classes -> wood, marble, glass, steel)
 
-- ![ex](texture.png)
+- ![ex](texture.jpg)
